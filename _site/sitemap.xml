@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://aditirajagopal.com/blog/hello-world/</loc>
+    <lastmod>2015-07-16T14:39:55-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://aditirajagopal.com/</loc>
+  </url>
+  <url>
+    <loc>http://aditirajagopal.com/resources/</loc>
+  </url>
+  <url>
+    <loc>http://aditirajagopal.com/about/</loc>
+  </url>
+  <url>
+    <loc>http://aditirajagopal.com/tags/</loc>
+  </url>
+  <url>
+    <loc>http://aditirajagopal.com/blog/</loc>
+  </url>
+</urlset>
