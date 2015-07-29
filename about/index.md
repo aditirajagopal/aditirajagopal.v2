@@ -22,11 +22,11 @@ I am a first year IBMer working in the OpenStack Community (primarily contributi
 * Always be surrounded by smart & supportive people 
 * Always try to help others achieve their goals (including, but not limited to personal, technical & professional goals)
 
-## Here are some inspirational quotes that resonnate with me:
+## Here are some inspirational quotes that resonate with me:
 * "If something seems impossible, ask whether it's impossible or just unprecedented. Conquer the latter.""
 * "If you can't explain it simply, you don't understand it well enough." - Albert Einstein
 
-I am a dedicated professional that excels in the intersection of engineering & business. Through my intern, scholastic, extracurricular, non-profit, and full-time experiences, I believe that I have developed valuable combinaion of technical and business expertise. The aforementioned skills coupled with my ability to "learn on the fly" help me excel in the rapidly evolving tech field. 
+I am a dedicated professional that excels in the intersection of engineering & business. Through my intern, scholastic, extracurricular, non-profit, and full-time experiences, I believe that I have developed valuable combination of technical and business expertise. The aforementioned skills coupled with my ability to "learn on the fly" help me excel in the rapidly evolving tech field. 
 
 I thrive in environments that push me out of my comfort zone, and require me to leverage my experience, technical chops, creativity, and perseverance. 
 
