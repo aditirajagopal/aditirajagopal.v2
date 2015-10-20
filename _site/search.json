@@ -2,8 +2,16 @@
 
   
     {
+      "title"			: "A Quick Update",
+      "link"			: "http://aditirajagopal.github.io//blog/sorry-not-sorry/",
+      "excerpt"		: "Creative Confidence is hard to come by, and Procrastination is my middle name"
+    }
+  
+
+  
+    ,{
       "title"			: "Look! It's Finally Live!",
-      "link"			: "http://aditirajagopal.com/blog/hello-world/",
+      "link"			: "http://aditirajagopal.github.io//blog/hello-world/",
       "excerpt"		: "After quite a lot of thought, drafting, procrastination, coding, and coffee, I'm pleased to announce/show/display my new website & blog! This could not have been done without the help of my family, friends, new hires, and interns - it's always good to have people making sure you are being accountable...."
     }
   
@@ -17,13 +25,13 @@
   
 
   
-
-  
     ,{
       "title"			: "Aditi who?",
-      "link"			: "http://aditirajagopal.com/about/",
+      "link"			: "http://aditirajagopal.github.io//about/",
       "excerpt"		: "So Simple is a responsive Jekyll theme for your words and images."
     }
+  
+
   
 
   

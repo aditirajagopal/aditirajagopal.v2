@@ -3,8 +3,8 @@ layout: post
 title: "A Quick Update"
 modified:
 categories: blog
-excerpt: "Revamping this website was on my "To-Do" list for almost a year before I actually scrapped it. Overcommitting and my lack of creative confidence puts me in a vortex of procrastination. "
-tags: [update, progress, procrastination, creative confidence]
+excerpt: "Creative Confidence is hard to come by, and Procrastination is my middle name"
+tags: []
 image:
   feature:
 date: 2015-09-01T15:39:55-04:00

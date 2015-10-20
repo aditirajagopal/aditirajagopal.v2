@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">The amalgamation of semi-useful information</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://aditirajagopal.com/feed.xml" />
-<link rel="alternate" type="text/html" href="http://aditirajagopal.com" />
-<updated>2015-07-17T08:27:48-05:00</updated>
-<id>http://aditirajagopal.com/</id>
+<link rel="self" type="application/atom+xml" href="http://aditirajagopal.github.io//feed.xml" />
+<link rel="alternate" type="text/html" href="http://aditirajagopal.github.io/" />
+<updated>2015-10-20T12:21:29-05:00</updated>
+<id>http://aditirajagopal.github.io//</id>
 <author>
   <name>Aditi Rajagopal</name>
-  <uri>http://aditirajagopal.com/</uri>
+  <uri>http://aditirajagopal.github.io//</uri>
   <email>araja@umich.edu</email>
 </author>
 
@@ -16,22 +16,55 @@
   
 
 <entry>
+  <title type="html"><![CDATA[A Quick Update]]></title>
+  <link rel="alternate" type="text/html" href="http://aditirajagopal.github.io//blog/sorry-not-sorry/" />
+  <id>http://aditirajagopal.github.io//blog/sorry-not-sorry</id>
+  <published>2015-09-01T14:39:55-05:00</published>
+  <updated>2015-09-01T14:39:55-05:00</updated>
+  <author>
+    <name>Aditi Rajagopal</name>
+    <uri>http://aditirajagopal.github.io/</uri>
+    <email>araja@umich.edu</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Revamping this website was on my “To-Do” list for almost a year before I actually scrapped it. Overcommitting and my lack of creative confidence puts me in a vortex of procrastination.&lt;/p&gt;
+
+&lt;p&gt;Side/Optional projects get hit the hardest.&lt;/p&gt;
+
+&lt;p&gt;I’m a detail oriented perfectionist. So when it comes to these types of projects, if I’m not 100% happy, it’s easy for me to scrap it and forget about it.&lt;/p&gt;
+
+&lt;p&gt;That’s what happened to this blog.&lt;/p&gt;
+
+&lt;p&gt;Till now.&lt;/p&gt;
+
+&lt;h2 id=&quot;stay-tuned&quot;&gt;Stay tuned.&lt;/h2&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://aditirajagopal.github.io//blog/sorry-not-sorry/&quot;&gt;A Quick Update&lt;/a&gt; was originally published by Aditi Rajagopal at &lt;a href=&quot;http://aditirajagopal.github.io/&quot;&gt;The amalgamation of semi-useful information&lt;/a&gt; on September 01, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
   <title type="html"><![CDATA[Look! It's Finally Live!]]></title>
-  <link rel="alternate" type="text/html" href="http://aditirajagopal.com/blog/hello-world/" />
-  <id>http://aditirajagopal.com/blog/hello-world</id>
+  <link rel="alternate" type="text/html" href="http://aditirajagopal.github.io//blog/hello-world/" />
+  <id>http://aditirajagopal.github.io//blog/hello-world</id>
   <published>2015-07-16T14:39:55-05:00</published>
   <updated>2015-07-16T14:39:55-05:00</updated>
   <author>
     <name>Aditi Rajagopal</name>
-    <uri>http://aditirajagopal.com</uri>
+    <uri>http://aditirajagopal.github.io/</uri>
     <email>araja@umich.edu</email>
   </author>
   <content type="html">
     &lt;p&gt;After quite a lot of thought, drafting, procrastination, coding, and coffee, I’m pleased to announce/show/display my new website &amp;amp; blog! This could not have been done without the help of my family, friends, new hires, and interns - it’s always good to have people making sure you are being accountable….&lt;/p&gt;
 
+&lt;p&gt;I have to go to work now so…&lt;/p&gt;
+
 &lt;h2 id=&quot;stay-tuned&quot;&gt;Stay tuned!&lt;/h2&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://aditirajagopal.com/blog/hello-world/&quot;&gt;Look! It&#39;s Finally Live!&lt;/a&gt; was originally published by Aditi Rajagopal at &lt;a href=&quot;http://aditirajagopal.com&quot;&gt;The amalgamation of semi-useful information&lt;/a&gt; on July 16, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://aditirajagopal.github.io//blog/hello-world/&quot;&gt;Look! It&#39;s Finally Live!&lt;/a&gt; was originally published by Aditi Rajagopal at &lt;a href=&quot;http://aditirajagopal.github.io/&quot;&gt;The amalgamation of semi-useful information&lt;/a&gt; on July 16, 2015.&lt;/p&gt;
   </content>
 </entry>
 
