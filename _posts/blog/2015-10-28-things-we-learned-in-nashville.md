@@ -32,3 +32,9 @@ walked around everywhere, and were continually inspired by the people we met. In
 Checkout some more highlights via our compiled Storify:
 
 <div class="storify"><iframe src="//storify.com/Aditi_Rajagopal/we15-nashville/embed?header=false&border=false" width="100%" height="750" frameborder="no" allowtransparency="true"></iframe><script src="//storify.com/Aditi_Rajagopal/we15-nashville.js?header=false&border=false"></script><noscript>[<a href="//storify.com/Aditi_Rajagopal/we15-nashville" target="_blank">View the story "#we15 - Nashville TN" on Storify</a>]</noscript></div>
+=======
+
+#### Check out our Storify! 
+## Hope to see y'all at we16 in Philadelphia
+
+<div class="storify"><iframe src="//storify.com/Aditi_Rajagopal/we15-nashville/embed?border=false" width="100%" height="750" frameborder="no" allowtransparency="true"></iframe><script src="//storify.com/Aditi_Rajagopal/we15-nashville.js?border=false"></script><noscript>[<a href="//storify.com/Aditi_Rajagopal/we15-nashville" target="_blank">View the story "#we15 - Nashville TN" on Storify</a>]</noscript></div>
