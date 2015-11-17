@@ -13,7 +13,7 @@ My name is Aditi Rajagopal - pronounced [**/ah/dhi/thi**](http://www.forvo.com/w
 
 My first name tends to be a bit tricky for a lot of people, so you can pronounce 'Aditi' as /ah/dee/tee if you'd like. No excuses on the last name though; I believe in you, just break it up phonetically. 
 
-I am a first year IBMer working in the OpenStack Community (primarily contributing to the Neutron Project), a recent graduate of the University of Michigan College of Engineering, and a member of various committees on the Regional & National Levels of the Society of Women Engineers. I am also a freelance graphic designer & artist.
+I am a first year IBMer working on Open Source Technologies (primarily contributing to Docker), a recent graduate of the University of Michigan College of Engineering, and a member of various committees on the Regional & National Levels of the Society of Women Engineers. I am also a freelance graphic designer & artist.
 
 ## Here are a few personal goals that I try to hold myself to everyday:
 

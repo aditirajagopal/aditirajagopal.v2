@@ -2,6 +2,14 @@
 
   
     {
+      "title"			: "It still hurts",
+      "link"			: "http://aditirajagopal.github.io//blog/it-still-hurts/",
+      "excerpt"		: "Self doubt is tricky. Just like straight jackets."
+    }
+  
+
+  
+    ,{
       "title"			: "Things We Learned in Nashville",
       "link"			: "http://aditirajagopal.github.io//blog/things-we-learned-in-nashville/",
       "excerpt"		: "This past week, we (Aditi & Kendall) attended the Society of Women Engineers Annual Conference (we15) in Nashville Tennessee. This is what we learned."
@@ -12,6 +20,14 @@
     ,{
       "title"			: "A Quick Update",
       "link"			: "http://aditirajagopal.github.io//blog/sorry-not-sorry/",
+      "excerpt"		: "Creative Confidence is hard to come by, and Procrastination is my middle name"
+    }
+  
+
+  
+    ,{
+      "title"			: "A Year in review",
+      "link"			: "http://aditirajagopal.github.io//blog/a-year-in-review/",
       "excerpt"		: "Creative Confidence is hard to come by, and Procrastination is my middle name"
     }
   
