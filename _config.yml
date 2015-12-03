@@ -9,7 +9,7 @@ url: http://aditirajagopal.github.io/
 
 # Jekyll configuration
 
-permalink:   /:categories/:title/
+permalink:   :categories/:title/
 markdown:    kramdown
 highlighter: pygments
 sass:
