@@ -2,6 +2,22 @@
 
   
     {
+      "title"			: "Society of Women Engineers",
+      "link"			: "http://aditirajagopal.github.io//portfolio/society-of-women-engineers/",
+      "excerpt"		: "Being an active member and leader in the Society of Women Engineers allowed me to exercise my creative muscle in the midst of all my technical classes."
+    }
+  
+
+  
+    ,{
+      "title"			: "RePunch",
+      "link"			: "http://aditirajagopal.github.io//portfolio/repunch/",
+      "excerpt"		: "During the summer of 2012, I had the opportunity to be the lead Front-End Developer and Designer for RePunch -- a customer loyalty mobile application. Initially, I was brought on to the team as a front-end developer. By the end of the internship, I was preparing content for the founder/CEO."
+    }
+  
+
+  
+    ,{
       "title"			: "Here's the thing about Millennials",
       "link"			: "http://aditirajagopal.github.io//blog/heres-the-thing-about-millennials/",
       "excerpt"		: "A response to things happening in my own life, and across the U.S."
