@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://aditirajagopal.github.io/feed.xml" />
 <link rel="alternate" type="text/html" href="http://aditirajagopal.github.io" />
-<updated>2016-02-25T02:56:16-06:00</updated>
+<updated>2016-02-25T03:39:27-06:00</updated>
 <id>http://aditirajagopal.github.io/</id>
 <author>
   <name>Aditi Rajagopal</name>
@@ -211,6 +211,101 @@ This is a screenshot of one of the webpages.&lt;/p&gt;
 &lt;/figure&gt;
 
     &lt;p&gt;&lt;a href=&quot;http://aditirajagopal.github.io/portfolio/repunch/&quot;&gt;RePunch&lt;/a&gt; was originally published by Aditi Rajagopal at &lt;a href=&quot;http://aditirajagopal.github.io&quot;&gt;The amalgamation of semi-useful information&lt;/a&gt; on February 01, 2016.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Minor Projects]]></title>
+  <link rel="alternate" type="text/html" href="http://aditirajagopal.github.io/portfolio/freelance/" />
+  <id>http://aditirajagopal.github.io/portfolio/freelance</id>
+  <published>2016-02-01T13:39:55-06:00</published>
+  <updated>2016-02-01T13:39:55-06:00</updated>
+  <author>
+    <name>Aditi Rajagopal</name>
+    <uri>http://aditirajagopal.github.io</uri>
+    <email>araja@umich.edu</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;The following are various freelance projects I have picked up along the way.&lt;/p&gt;
+
+&lt;h2 id=&quot;jillians-bakery&quot;&gt;Jillian’s Bakery&lt;/h2&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+  &lt;img src=&quot;http://aditirajagopal.github.io/images/HailToTheChip_Color.pdf&quot; alt=&quot;image&quot; /&gt;
+  &lt;img src=&quot;http://aditirajagopal.github.io/images/hailtothechip_stamp.jpg&quot; alt=&quot;image&quot; /&gt;
+  &lt;figcaption&gt;Logo and Rubber Stamp&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Jillian Kimberlin is a friend of mine. During the December Holiday Season, she 
+bakes and gives away dozens of &lt;a href=&quot;http://www.postbulletin.com/life/food/christmas-cookies-for-not-a-lot-of-dough/article_5cd174db-280e-53dd-abe8-1467e166966b.html&quot;&gt;chocolate chip cookies&lt;/a&gt;. 
+In order to make the process a bit easier for her, and to make the cookies extra
+special, I created this logo, and got a rubber stamp made for her.&lt;/p&gt;
+
+&lt;h2 id=&quot;pokeballers-flag-football-jerseys&quot;&gt;Pokeballers flag football jerseys&lt;/h2&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+  &lt;img src=&quot;http://aditirajagopal.github.io/images/pokeballers_red.png&quot; alt=&quot;image&quot; /&gt;
+  &lt;img src=&quot;https://scontent-ord1-1.cdninstagram.com/t51.2885-15/e15/11809858_871616139602798_452435258_n.jpg&quot; alt=&quot;image&quot; /&gt;
+  &lt;figcaption&gt;Logo and Rubber Stamp&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In Fall 2015, a bunch of the IBM new hires signed up for a flag football league.
+Most of the guys are avid Pokémon fans, so I tried to incorporate it into the 
+jersey design. All things considered, I should just stick with creating the jerseys
+rather than participating on the field :)&lt;/p&gt;
+
+&lt;h2 id=&quot;geecs-logo-design&quot;&gt;gEECS Logo Design&lt;/h2&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://aditirajagopal.github.io/images/gEECS_Shirt_Front.png&quot; alt=&quot;image&quot; /&gt;
+  &lt;figcaption&gt;Fixed up the color scheme, and used funky fonts&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The Girls in Electrical Engineering and Computer Science (gEECS) club at University
+of Michigan wanted to refresh their logo. The clients wanted to maintain the 
+integrity of the previous design (cursive ‘g,’ capital letters for ‘EECS’). Based
+on their wants, I created this logo – it has been featured on t-shirts, various
+presentations, and social media.&lt;/p&gt;
+
+&lt;h2 id=&quot;actipal&quot;&gt;Actipal&lt;/h2&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://aditirajagopal.github.io/images/Actiopal_Icon.png&quot; alt=&quot;image&quot; /&gt;
+  &lt;figcaption&gt;Mobile app icon - before flat was all the rage&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;From June 2012-December 2012, I worked with a Doctor at the University of Michigan
+Department of Pediatric Endocrinology to create a mobile app to help kids with 
+diabetes monitor their activity, blood sugar, insulin etc. This is one of the
+many things I created for this project, but unfortunately, one of the few things
+I still have.&lt;/p&gt;
+
+&lt;h2 id=&quot;lynx-mobile-app-site&quot;&gt;Lynx Mobile App Site&lt;/h2&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://aditirajagopal.github.io/images/website_day3.png&quot; alt=&quot;image&quot; /&gt;
+  &lt;figcaption&gt;Just a mock of a website a group of students wanted&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In July 2012, a couple of undergrads approached me with a gig to create some 
+website wireframes and mockups for a mobile app site. Considering their wants, 
+this is the design I created for them.&lt;/p&gt;
+
+&lt;h2 id=&quot;ross-india-business-conference&quot;&gt;Ross India Business Conference&lt;/h2&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://aditirajagopal.github.io/images/rossibc.png&quot; alt=&quot;image&quot; /&gt;
+  &lt;figcaption&gt;I tried my best to get wordpress to work for me&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In August 2012, a couple of grad students approached me with a gig to update 
+their conference website. It was a wordpress site that needed to be further
+customized to accomodate conference changes.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://aditirajagopal.github.io/portfolio/freelance/&quot;&gt;Minor Projects&lt;/a&gt; was originally published by Aditi Rajagopal at &lt;a href=&quot;http://aditirajagopal.github.io&quot;&gt;The amalgamation of semi-useful information&lt;/a&gt; on February 01, 2016.&lt;/p&gt;
   </content>
 </entry>
 
