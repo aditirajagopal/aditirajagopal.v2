@@ -31,3 +31,5 @@ I am a dedicated professional that excels in the intersection of engineering & b
 I thrive in environments that push me out of my comfort zone, and require me to leverage my experience, technical chops, creativity, and perseverance. 
 
 In a nutshell: I enjoy working hard, and I have fun while doing it :)
+
+Oh. You're here for the resume? Ok. <a href="{{ site.url }}/images/Aditi_Rajagopal_Resume.pdf">Here.</a>
