@@ -1,50 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://aditirajagopal.github.io//portfolio/society-of-women-engineers/</loc>
+    <loc>http://aditirajagopal.github.io/portfolio/society-of-women-engineers/</loc>
     <lastmod>2016-02-01T13:39:55-06:00</lastmod>
   </url>
   <url>
-    <loc>http://aditirajagopal.github.io//portfolio/repunch/</loc>
+    <loc>http://aditirajagopal.github.io/portfolio/sgbrickman-for-wbsd/</loc>
     <lastmod>2016-02-01T13:39:55-06:00</lastmod>
   </url>
   <url>
-    <loc>http://aditirajagopal.github.io//blog/heres-the-thing-about-millennials/</loc>
+    <loc>http://aditirajagopal.github.io/portfolio/repunch/</loc>
+    <lastmod>2016-02-01T13:39:55-06:00</lastmod>
+  </url>
+  <url>
+    <loc>http://aditirajagopal.github.io/blog/heres-the-thing-about-millennials/</loc>
     <lastmod>2015-12-03T08:59:55-06:00</lastmod>
   </url>
   <url>
-    <loc>http://aditirajagopal.github.io//blog/it-still-hurts/</loc>
+    <loc>http://aditirajagopal.github.io/blog/it-still-hurts/</loc>
     <lastmod>2015-11-17T12:32:55-06:00</lastmod>
   </url>
   <url>
-    <loc>http://aditirajagopal.github.io//blog/things-we-learned-in-nashville/</loc>
+    <loc>http://aditirajagopal.github.io/blog/things-we-learned-in-nashville/</loc>
     <lastmod>2015-10-28T14:39:55-05:00</lastmod>
   </url>
   <url>
-    <loc>http://aditirajagopal.github.io//blog/sorry-not-sorry/</loc>
+    <loc>http://aditirajagopal.github.io/blog/sorry-not-sorry/</loc>
     <lastmod>2015-09-01T14:39:55-05:00</lastmod>
   </url>
   <url>
-    <loc>http://aditirajagopal.github.io//blog/a-year-in-review/</loc>
+    <loc>http://aditirajagopal.github.io/blog/a-year-in-review/</loc>
     <lastmod>2015-09-01T14:39:55-05:00</lastmod>
   </url>
   <url>
-    <loc>http://aditirajagopal.github.io//blog/hello-world/</loc>
+    <loc>http://aditirajagopal.github.io/blog/hello-world/</loc>
     <lastmod>2015-07-16T14:39:55-05:00</lastmod>
   </url>
   <url>
-    <loc>http://aditirajagopal.github.io//</loc>
+    <loc>http://aditirajagopal.github.io/</loc>
   </url>
   <url>
-    <loc>http://aditirajagopal.github.io//about/</loc>
+    <loc>http://aditirajagopal.github.io/about/</loc>
   </url>
   <url>
-    <loc>http://aditirajagopal.github.io//blog/</loc>
+    <loc>http://aditirajagopal.github.io/blog/</loc>
   </url>
   <url>
-    <loc>http://aditirajagopal.github.io//tags/</loc>
+    <loc>http://aditirajagopal.github.io/tags/</loc>
   </url>
   <url>
-    <loc>http://aditirajagopal.github.io//portfolio/</loc>
+    <loc>http://aditirajagopal.github.io/portfolio/</loc>
   </url>
 </urlset>

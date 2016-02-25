@@ -18,6 +18,17 @@ chances are, you'll see someone wearing a t-shirt I designed.
 
 The banner above is still used on the [SWE Umich Facebook page](https://www.facebook.com/sweumich/). 
 
+## Peace, Love, SWE
+
+<figure>
+  <img src="{{ site.url }}/images/SWE-shirt.png" alt="image">
+  <figcaption>Shirt and Sticker Design</figcaption>
+</figure>
+
+This was one of the first designs I created for SWE. It was initially featured
+on t-shirts for the 2011-2012 leadership corps, and now a colored version is 
+featured on computer decal stickers. 
+
 ## Mr. Engineer 2012
 
 <figure>

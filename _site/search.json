@@ -3,15 +3,23 @@
   
     {
       "title"			: "Society of Women Engineers",
-      "link"			: "http://aditirajagopal.github.io//portfolio/society-of-women-engineers/",
+      "link"			: "http://aditirajagopal.github.io/portfolio/society-of-women-engineers/",
       "excerpt"		: "Being an active member and leader in the Society of Women Engineers allowed me to exercise my creative muscle in the midst of all my technical classes."
     }
   
 
   
     ,{
+      "title"			: "Stacy Brickman for West Bloomfield School District Board 2014 Campaign",
+      "link"			: "http://aditirajagopal.github.io/portfolio/sgbrickman-for-wbsd/",
+      "excerpt"		: "Stacy Gold Brickman is one of my neighbors back home. She has played an active role in the West Bloomfield School District over the years, and in 2014, she decided to run for a highly contested position on the District Board."
+    }
+  
+
+  
+    ,{
       "title"			: "RePunch",
-      "link"			: "http://aditirajagopal.github.io//portfolio/repunch/",
+      "link"			: "http://aditirajagopal.github.io/portfolio/repunch/",
       "excerpt"		: "During the summer of 2012, I had the opportunity to be the lead Front-End Developer and Designer for RePunch -- a customer loyalty mobile application. Initially, I was brought on to the team as a front-end developer. By the end of the internship, I was preparing content for the founder/CEO."
     }
   
@@ -19,7 +27,7 @@
   
     ,{
       "title"			: "Here's the thing about Millennials",
-      "link"			: "http://aditirajagopal.github.io//blog/heres-the-thing-about-millennials/",
+      "link"			: "http://aditirajagopal.github.io/blog/heres-the-thing-about-millennials/",
       "excerpt"		: "A response to things happening in my own life, and across the U.S."
     }
   
@@ -27,7 +35,7 @@
   
     ,{
       "title"			: "It still hurts",
-      "link"			: "http://aditirajagopal.github.io//blog/it-still-hurts/",
+      "link"			: "http://aditirajagopal.github.io/blog/it-still-hurts/",
       "excerpt"		: "Self doubt is tricky. Just like straight jackets."
     }
   
@@ -35,7 +43,7 @@
   
     ,{
       "title"			: "Things We Learned in Nashville",
-      "link"			: "http://aditirajagopal.github.io//blog/things-we-learned-in-nashville/",
+      "link"			: "http://aditirajagopal.github.io/blog/things-we-learned-in-nashville/",
       "excerpt"		: "This past week, we (Aditi & Kendall) attended the Society of Women Engineers Annual Conference (we15) in Nashville Tennessee. This is what we learned."
     }
   
@@ -43,7 +51,7 @@
   
     ,{
       "title"			: "A Quick Update",
-      "link"			: "http://aditirajagopal.github.io//blog/sorry-not-sorry/",
+      "link"			: "http://aditirajagopal.github.io/blog/sorry-not-sorry/",
       "excerpt"		: "Creative Confidence is hard to come by, and Procrastination is my middle name"
     }
   
@@ -51,7 +59,7 @@
   
     ,{
       "title"			: "A Year in review",
-      "link"			: "http://aditirajagopal.github.io//blog/a-year-in-review/",
+      "link"			: "http://aditirajagopal.github.io/blog/a-year-in-review/",
       "excerpt"		: "Creative Confidence is hard to come by, and Procrastination is my middle name"
     }
   
@@ -59,7 +67,7 @@
   
     ,{
       "title"			: "Look! It's Finally Live!",
-      "link"			: "http://aditirajagopal.github.io//blog/hello-world/",
+      "link"			: "http://aditirajagopal.github.io/blog/hello-world/",
       "excerpt"		: "After quite a lot of thought, drafting, procrastination, coding, and coffee, I'm pleased to announce/show/display my new website & blog! This could not have been done without the help of my family, friends, new hires, and interns - it's always good to have people making sure you are being accountable...."
     }
   
@@ -75,7 +83,7 @@
   
     ,{
       "title"			: "Aditi who?",
-      "link"			: "http://aditirajagopal.github.io//about/",
+      "link"			: "http://aditirajagopal.github.io/about/",
       "excerpt"		: "So Simple is a responsive Jekyll theme for your words and images."
     }
   
