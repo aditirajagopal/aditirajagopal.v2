@@ -15,7 +15,7 @@ The following are various freelance projects I have picked up along the way.
 ## Jillian's Bakery
 
 <figure class="half">
-  <img src="{{ site.url }}/images/HailToTheChip_Color.pdf" alt="image">
+  <img src="{{ site.url }}/images/hailtothechip.png" alt="image">
   <img src="{{ site.url }}/images/hailtothechip_stamp.jpg" alt="image">
   <figcaption>Logo and Rubber Stamp</figcaption>
 </figure>
