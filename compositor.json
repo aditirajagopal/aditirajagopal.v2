@@ -50,8 +50,8 @@
     },
     {
       "component": "header",
-      "heading": "Stay Tuned",
-      "subhead": "currently refreshing website",
+      "heading": "Stay Tuned.",
+      "subhead": "construction in progress.",
       "children": [
         {
           "component": "ui/TweetButton",
@@ -64,27 +64,8 @@
           "repo": "aditirajagopal.github.io"
         }
       ],
-      "text": "it'll be great. i promise."
-    },
-    {
-      "component": "article",
-      "metadata": {
-        "source": "github.readme"
-      },
-      "html": "<p>nothing to see here.</p>\n"
-    },
-    {
-      "component": "footer",
-      "links": [
-        {
-          "href": "https://github.com/aditirajagopal/aditirajagopal.github.io",
-          "text": "GitHub"
-        },
-        {
-          "href": "https://github.com/aditirajagopal",
-          "text": "aditirajagopal"
-        }
-      ]
+      "text": "it'll be great. i promise.",
+      "links": []
     }
   ]
 }
